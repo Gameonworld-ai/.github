@@ -101,7 +101,7 @@ Our platform hosts a diverse library of skill-based games across multiple genres
 ### Getting Started
 ```bash
 # Install Gameon SDK
-npm install @gameonworld/sdk
+npm install gameon-sdk-auth
 
 # Initialize your game
 import { GameonSDK } from '@gameonworld/sdk';
