@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Gameon World Logo](https://github.com/Gameonworld-ai/.github/blob/main/profile/logo.png)
+![Gameon World Logo]([https://github.com/Gameonworld-ai/.github/blob/main/profile/logo.png](https://avatars.githubusercontent.com/u/190875761?s=400&u=be00cc8013fdf76b706daa6114b4e433fbfde09f&v=4))
 
 **The World's First Skill-Based Multiplayer Gaming Platform**
 
